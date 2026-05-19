@@ -25,5 +25,3 @@ Status   → Building.
 - [XP To-Do List](https://ashmuchluv.github.io/xp-todo-list)
 
 ---
-
-```
