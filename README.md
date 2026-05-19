@@ -19,10 +19,29 @@
 
 <br/>
 
-<div align="center">
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=najuiamnc&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+**Estudante de ADS em transição para desenvolvimento front-end.
+Interesse em interfaces com identidade visual.**
 
-</div>
+```
+◈  Front-end em treinamento
+◈  Paraná, Brasil
+◈  HTML · CSS · JavaScript
+
+```
+
+<br clear="right"/>
 
 ---
+
+## Tecnologias
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
