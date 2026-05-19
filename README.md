@@ -4,9 +4,9 @@
 </div>
 
 <!-- TITLE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&pause=1000&color=B8B8B8&width=435&lines=Ashmuchluv"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&pause=1000&color=B8B8B8&width=435&center=true&lines=Ashmuchluv"/>
+</p>
 
 <br/>
 
@@ -21,8 +21,8 @@
 
 ---
 
-**Estudante de ADS em transição para desenvolvimento front-end.
-Interesse em interfaces com identidade visual.**
+**Estudante de ADS em transição para desenvolvimento front-end.**
+**Interesse em interfaces com identidade visual.**
 
 ---
 
