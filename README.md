@@ -21,8 +21,13 @@
 
 ---
 
-**Estudante de ADS em transição para desenvolvimento front-end.**
-**Interesse em interfaces com identidade visual.**
+**Front-End Developer & UI/UX Enthusiast.**
+
+> *Design funcional, código limpo e foco na experiência do usuário.*
+
+Estudante de *ADS* focado em desenvolvimento *Front-End* e no design de interfaces com identidade visual marcante. Acredito que a tecnologia deve ser tanto funcional quanto visualmente engajadora.
+
+Desenvolvendo projetos pessoais com *JavaScript* e ferramentas de estilização modernas, sempre integrando conceitos de design de interface ao código.
 
 ---
 
