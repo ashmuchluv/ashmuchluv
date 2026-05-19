@@ -1,27 +1,28 @@
-![banner](./banner.png)
-[![LinkedIn](https://www.linkedin.com/in/gabrielderabelo/)
+<!-- BANNER -->
+<div align="center">
+  <img src="./banner.png"/>
+</div>
 
-## Gabriel Rabelo
+<!-- TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=B8B8B8&lines=Ashmuchluv"/>
+</div>
 
-> Estudante de ADS em transição para desenvolvimento front-end.
-> Interesse em interfaces com identidade visual.
+<br/>
 
-```yaml
-Class    → Front-end in Training
-Origin   → Maringá, BR
-Focus    → HTML · CSS · JavaScript
-Status   → Building.
-` ` `
+<!-- CONTACT -->
+<div align="center">
 
-## Technologies
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielderabelo/)
 
-## Projects
-- [Calculadora XP](https://ashmuchluv.github.io/calculadora)
-- [XP Music Player](https://ashmuchluv.github.io/xp-music-player)
-- [XP To-Do List](https://ashmuchluv.github.io/xp-todo-list)
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=najuiamnc&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+
+</div>
 
 ---
