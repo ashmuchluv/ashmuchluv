@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B8B8B8&width=435&lines=Ashmuchluv"/>
+  <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&pause=1000&color=B8B8B8&width=435&lines=Ashmuchluv"/>
 </div>
 
 <br/>
