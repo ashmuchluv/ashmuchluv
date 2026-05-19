@@ -28,7 +28,6 @@ Interesse em interfaces com identidade visual.**
 ◈  Front-end em treinamento
 ◈  Paraná, Brasil
 ◈  HTML · CSS · JavaScript
-
 ```
 
 <br clear="right"/>
@@ -45,3 +44,5 @@ Interesse em interfaces com identidade visual.**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
+
+---
