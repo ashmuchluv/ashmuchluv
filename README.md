@@ -29,6 +29,10 @@ Estudante de *ADS* focado em desenvolvimento *Front-End* e no design de interfac
 
 Desenvolvendo projetos pessoais com *JavaScript* e ferramentas de estilização modernas, sempre integrando conceitos de design de interface ao código.
 
+Atuo há mais de 2 anos na Vitru Educação (grupo responsável pela Uniasselvi e Unicesumar), onde hoje desempenho o papel de Assistente Acadêmico. Essa trajetória me trouxe sólida experiência em organização de processos e resolução de problemas no ambiente corporativo.
+
+Atualmente, concilio a rotina profissional com o aprofundamento técnico em HTML, CSS, JavaScript e conceitos de UI/UX.
+
 ---
 
 ## Tecnologias
