@@ -25,13 +25,13 @@
 
 > *Design funcional, código limpo e foco na experiência do usuário.*
 
-Estudante de *ADS* focado em desenvolvimento *Front-End* e no design de interfaces com identidade visual marcante. Acredito que a tecnologia deve ser tanto funcional quanto visualmente engajadora.
+Estudante de Análise e Desenvolvimento de Sistemas com grande interesse nas áreas de desenvolvimento Front-End e design de interfaces. Acredito que a tecnologia deve ser tanto funcional quanto visualmente engajadora.
 
-Desenvolvendo projetos pessoais com *JavaScript* e ferramentas de estilização modernas, sempre integrando conceitos de design de interface ao código.
+Atualmente, venho desenvolvendo projetos acadêmicos na linguagem C, fortalecendo minha base em lógica e fundamentos da programação, enquanto exploro conceitos de UI/UX e design de interfaces.
 
 Atuo há mais de 2 anos na Vitru Educação (grupo responsável pela Uniasselvi e Unicesumar), onde hoje desempenho o papel de Assistente Acadêmico. Essa trajetória me trouxe sólida experiência em organização de processos e resolução de problemas no ambiente corporativo.
 
-Atualmente, concilio a rotina profissional com o aprofundamento técnico em HTML, CSS, JavaScript e conceitos de UI/UX.
+Atualmente, concilio a rotina profissional com a graduação e o estudo contínuo de fundamentos de programação e conceitos de interface.
 
 ---
 
