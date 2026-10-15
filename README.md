@@ -46,4 +46,3 @@ Atualmente, concilio minha rotina profissional com a graduação e o desenvolvim
   <img src="https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power_BI-333333?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
 </div>
----
