@@ -21,17 +21,15 @@
 
 ---
 
-**Front-End Developer & UI/UX Enthusiast.**
+**Tecnologia e Desenvolvimento de Software.**
 
-> *Design funcional, código limpo e foco na experiência do usuário.*
+> *Aprendizado contínuo, pensamento lógico e resolução de problemas.*
 
-Estudante de Análise e Desenvolvimento de Sistemas com grande interesse nas áreas de desenvolvimento Front-End e design de interfaces. Acredito que a tecnologia deve ser tanto funcional quanto visualmente engajadora.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente desenvolvendo meus conhecimentos em lógica de programação e fundamentos do desenvolvimento de software.
 
-Atualmente, venho desenvolvendo projetos acadêmicos na linguagem C, fortalecendo minha base em lógica e fundamentos da programação, enquanto exploro conceitos de UI/UX e design de interfaces.
+Tenho experiência profissional no Grupo Vitru Educação, atuando como Assistente Acadêmico em processos administrativos, atendimento e validação de documentos. Essa experiência contribuiu para o desenvolvimento de habilidades como organização, comunicação, responsabilidade e resolução de problemas.
 
-Atuo há mais de 2 anos na Vitru Educação (grupo responsável pela Uniasselvi e Unicesumar), onde hoje desempenho o papel de Assistente Acadêmico. Essa trajetória me trouxe sólida experiência em organização de processos e resolução de problemas no ambiente corporativo.
-
-Atualmente, concilio a rotina profissional com a graduação e o estudo contínuo de fundamentos de programação e conceitos de interface.
+Atualmente, concilio minha rotina profissional com a graduação e o desenvolvimento das minhas habilidades técnicas, buscando aplicar meus conhecimentos em projetos práticos e construir minha trajetória profissional na área de tecnologia.
 
 ---
 
